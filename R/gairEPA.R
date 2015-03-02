@@ -7,7 +7,7 @@
 #' @param keepcsv Whether to keep the csv data; default is FALSE
 #' @keywords air pollution
 #' @return A rda file in current directory
-#' @examples 
+#' @examples
 #' gairEPA(year = c(2013-2014), type = "so2")
 #' gairEPA(2000, "co2", "hourly")
 #' @export
