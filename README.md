@@ -16,8 +16,8 @@ To install the lastest version:
 devtools::install_github("jjchern/gair")
 ```
 
-Examples
-========
+Example
+=======
 
 To download hourly pm25 data for year 2014 from the EPA website:
 
