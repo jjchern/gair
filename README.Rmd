@@ -14,5 +14,25 @@ knitr::opts_chunk$set(
 )
 ```
 
-\# install.packages("devtools")
-install_github("jjchern/gair")
+# Description
+
+`gair` contains functions that download raw air data from various websites. 
+
+- `gairEPA()` downloads U.S. air data from  EPA website and exports R data file or Stata data file.
+
+# Install
+
+To install the lastest version:
+
+```R
+# install.packages("devtools")
+devtools::install_github("jjchern/gair")
+```
+
+# Examples
+
+To download hourly pm25 data for year 2014 from the EPA website:
+
+```R
+gair::gairEPA(2014, "pm25", "hourly")
+```
