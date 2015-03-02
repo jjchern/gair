@@ -6,5 +6,7 @@ Date: 2015-03-01
 Author: JJ Chern <jiajia.chern@gmail.com>
 Maintainer: JJ Chern <jiajia.chern@gmail.com>
 Description: This packages contains functions that download data file from websites and export R data file and Stata data file.
+URL: http://github.com/jjchern/gair
+BugReports: http://github.com/jjchern/gair/issues
 Encoding: UTF-8
 License: GPL-2
