@@ -5,7 +5,7 @@ Description
 `gair` contains functions that download raw air data from various websites.
 
 - `gairEPA()` downloads U.S. air data from EPA website and exports R data file or Stata data file.
-    - (Codebook for EPA data](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/FileFormats.html)
+    - [Codebook for EPA data](http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/FileFormats.html)
 
 Install
 =======
